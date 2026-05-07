@@ -1,5 +1,14 @@
 # 🏢 Employee Management Portal
 
+<img width="1252" height="721" alt="image" src="https://github.com/user-attachments/assets/70cf120f-dc09-4637-adbc-edebfa4fa851" />
+<img width="1322" height="800" alt="image" src="https://github.com/user-attachments/assets/95f7d36e-c7b9-4ac3-9662-91056d12fd70" />
+<img width="1882" height="742" alt="image" src="https://github.com/user-attachments/assets/f8c867ab-a379-4fb9-bdef-8d13ed0d4e12" />
+<img width="1416" height="887" alt="image" src="https://github.com/user-attachments/assets/5bbd2fbc-9acf-4583-b551-49264a22ffc8" />
+<img width="1575" height="755" alt="image" src="https://github.com/user-attachments/assets/c70c18c2-0a87-4c0a-b29e-eb4eb1a3b0ed" />
+<img width="1586" height="696" alt="image" src="https://github.com/user-attachments/assets/0cdecf32-7509-41c2-9812-0d718f127b08" />
+<img width="1612" height="592" alt="image" src="https://github.com/user-attachments/assets/4a2a2169-0cec-408e-a9ad-2caf221c9803" />
+
+
 A full-stack **Employee Management System** built with FastAPI, React, Tailwind CSS, and MySQL.
 Admins can manage employees, assign tasks, and track progress. Employees can view their salary and manage their tasks.
 
